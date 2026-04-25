@@ -2,11 +2,11 @@
 
 This project performs **tennis video analysis** including:
 
--   Ball tracking\
--   Player detection\
+-   Ball tracking
+-   Player detection
 -   Bounce detection\
--   Stroke classification\
--   Court zoning\
+-   Stroke classification
+-   Court zoning
 -   Coaching report generation
 
 ------------------------------------------------------------------------
@@ -40,7 +40,8 @@ Paddle1/
 
 ### 1. Clone / Download Project
 
-git clone <https://github.com/hammadshahid26/Paddle_analysis.git>
+git clone <https://github.com/hammadshahid26/Paddle_analysis.git>   
+
 cd Paddle1
 
 ------------------------------------------------------------------------
