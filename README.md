@@ -40,7 +40,7 @@ Paddle1/
 
 ### 1. Clone / Download Project
 
-git clone `<your-repo-link>`{=html}\
+git clone <https://github.com/hammadshahid26/Paddle_analysis.git>
 cd Paddle1
 
 ------------------------------------------------------------------------
