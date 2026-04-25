@@ -1,0 +1,11 @@
+mediapipe==0.10.14
+scenedetect
+sympy
+tqdm
+opencv-python
+catboost
+supervision
+ultralytics
+transformers
+accelerate
+bitsandbytes
