@@ -121,9 +121,13 @@ python main.py \
 
 The **CatBoostRegressor** model is used to predict ball bounces based on the trajectory obtained from ball tracking.
 
-### 📥 Pretrained Models
 
-- https://drive.google.com/file/d/1Eo5HDnAQE8y_FbOftKZ8pjiojwuy2BmJ/view?usp=drive_link  
+- https://drive.google.com/file/d/1Eo5HDnAQE8y_FbOftKZ8pjiojwuy2BmJ/view?usp=drive_link
+
+## TrackNet
+
+A Deep Learning Network for Tracking High-speed and Tiny Objects in Sports Applications.
+
 - https://drive.google.com/file/d/1XEYZ4myUN7QT-NeBYJI0xteLsvs-ZAOl/view?usp=sharing  
 
 👉 Download and place them inside the `/models` directory.
